@@ -24,3 +24,5 @@ Hi, I’m Maggie! I’m currently studying Computer Science part-time at Georgia
 ### Stats
 
 ![Maggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggiekunwang&show_icons=true&theme=graywhite)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maggiekunwang&layout=compact) -->
