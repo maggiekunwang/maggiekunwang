@@ -1,4 +1,4 @@
-Hi, I’m Maggie! I’m currently studying Computer Science part-time at Georgia Tech.
+Hi, I’m Maggie!
 
 #
 
